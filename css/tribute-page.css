@@ -1,0 +1,31 @@
+
+body { background-color: #D8D8D8; 
+       font-family: 'Calibri';
+	   font-size: 20px;
+}
+
+ h1, h2, p{ text-align: center; 
+}
+ 
+ h2 { margin: 50px 0px 50px 0px; 
+}
+ 
+img {  margin-left: 200px;
+	
+}
+
+ul { margin-left: 400px;
+     margin-right: 400px;    
+}
+
+li {padding: 20px 0px 20px 0px;}
+
+ .bcg-white{ background-color: white; 
+}
+
+.footer { margin-left: 400px;
+     margin-right: 400px;
+}
+.quotes { margin-left: 100px;
+     margin-right: 100px;
+	 }
